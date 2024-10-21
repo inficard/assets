@@ -1,0 +1,9 @@
+{
+  "name": "InfiCard Token", 
+  "symbol": "INFI",
+  "uri": "https://raw.githubusercontent.com/inficard/assets/main/metadata.json",
+  "sellerFeeBasisPoints": 0,
+  "creators": null,
+  "collection": null,
+  "uses": null
+}
